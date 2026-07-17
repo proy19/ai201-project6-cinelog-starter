@@ -94,3 +94,7 @@ Confirm FilmNotFoundError is raised rather than a raw DB integrity error.
 Public flag:
 
 Confirm each entry returned by GET /watchlist/<user_id> includes "public": true by default.
+
+## Git Log Screenshot
+
+![alt text](image.png)
